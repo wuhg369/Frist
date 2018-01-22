@@ -2,6 +2,7 @@
 这是github第一个文本
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 second
 =======
@@ -10,3 +11,10 @@ second
 =======
 创建的第一个分支second $
 >>>>>>> refs/remotes/origin/Secon_branch
+frist
+frist
+frist
+=======
+创建的第一个分支second $
+frist
+>>>>>>> refs/remotes/origin/new-master

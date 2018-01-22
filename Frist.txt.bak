@@ -3,6 +3,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 second
 =======
 创建的第一个分支second $
@@ -10,3 +11,6 @@ second
 =======
 创建的第一个分支second
 >>>>>>> refs/remotes/origin/Secon_branch
+=======
+创建的第一个分支second $
+>>>>>>> refs/remotes/origin/new-master
