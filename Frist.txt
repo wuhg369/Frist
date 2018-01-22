@@ -1,8 +1,12 @@
 ﻿你好
 这是github第一个文本
 
+<<<<<<< HEAD
 
 second
 =======
 创建的第一个分支second $
 
+=======
+创建的第一个分支second $
+>>>>>>> refs/remotes/origin/Secon_branch
