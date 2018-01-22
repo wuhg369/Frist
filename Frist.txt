@@ -11,9 +11,6 @@ second
 =======
 创建的第一个分支second $
 >>>>>>> refs/remotes/origin/Secon_branch
-frist
-frist
-frist
 =======
 创建的第一个分支second $
 frist
